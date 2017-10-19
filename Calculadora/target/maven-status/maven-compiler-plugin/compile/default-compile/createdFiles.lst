@@ -1,0 +1,9 @@
+com\calculadora\Calculadora\Calculadora_Service.class
+com\calculadora\Calculadora\Main.class
+com\calculadora\Calculadora\Calculadora_PortType.class
+com\calculadora\Calculadora\SumaRequestBody.class
+com\calculadora\Calculadora\CalculadoraSOAPSkeleton.class
+com\calculadora\Calculadora\SumaResponseBody.class
+com\calculadora\Calculadora\Calculadora_ServiceLocator.class
+com\calculadora\Calculadora\CalculadoraSOAPStub.class
+com\calculadora\Calculadora\CalculadoraSOAPImpl.class

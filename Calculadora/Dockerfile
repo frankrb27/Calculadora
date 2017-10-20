@@ -1,4 +1,3 @@
-FROM java:8
+FROM openjdk:8-jre-alpine
+ADD target/Calculadora.war /usr/local/tomcat/webapps/Calculadora.war
 EXPOSE 8080
-ADD target/Calculadora.war calculadora.war
-ENTRYPOINT ["java","-jar","calculadora.war"]
